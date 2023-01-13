@@ -11,7 +11,7 @@ body {margin: 0;}
 .sign-in {padding: 25px 25px 0px 25px}
 .community {color:#d8d4d0; font: 14px;display: flex; justify-content: space-between; padding: 5px 15px 25px 50px;}
 .navextras {color:#d8d4d0; font: 14px;display: flex; justify-content: space-between; padding: 5px 15px 10px 30px;}
-.welchead {color:#d8d4d0; max-width: 40%; margin-left: 30px; min-height}
+.welchead {color:#d8d4d0; max-width: 40%; margin-left: 30px}
 #welcome {font-size: 40px}
 #disclmr {padding-bottom: 60px; font-size: 18px;}
 
